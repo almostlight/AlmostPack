@@ -1,8 +1,8 @@
 #! /bin/bash
 
-MCDIR="$HOME/Documents/RustBox/" 
 PACKDIR="$HOME/Documents/AlmostPack/" 
-LOGFILE="$HOME/run_server.log" 
+MCDIR="/opt/minecraft/RustBox/" 
+LOGFILE="/opt/minecraft/run_server.log" 
 
 log () {
     echo -e "$1 at $(date)" >> "$LOGFILE" 
