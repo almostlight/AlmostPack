@@ -2,7 +2,7 @@
 ## Run this script as sudo 
 
 LOGFILE="/opt/minecraft/server.log" 
-PACKDIR="$HOME/Documents/AlmostPack/" 
+PACKDIR="$HOME/Documents/AlmostPack" 
 MCDIR="/opt/minecraft/$1" 
 
 log () {
