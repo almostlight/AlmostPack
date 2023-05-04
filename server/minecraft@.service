@@ -5,6 +5,9 @@ After=network.target
 [Service]
 WorkingDirectory=/opt/minecraft/%i 
 
+User=almost 
+Group=minecraft-server 
+
 Type=forking
 Restart=always
 
