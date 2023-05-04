@@ -19,8 +19,8 @@ fi
 
 if [[ -n $DIFF_OUTPUT ]]; then
     ## this may leave deprecated mods. we shall see. 
-    cp -rf "$PACKDIR"/server/mods/ "$MCDIR"/ 
-    cp "$PACKDIR"/server/run_server.sh /opt/minecraft/ 
-    cp "$PACKDIR"/server/minecraft@.service /etc/systemd/system/
+    cp -rf "$PACKDIR/server/mods/" "$MCDIR/" 
+    cp "$PACKDIR/server/run_server.sh" /opt/minecraft/ 
+    cp "$PACKDIR/server/minecraft@.service" /etc/systemd/system/
     log "Updated files on server"
 fi
