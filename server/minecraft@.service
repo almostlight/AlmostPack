@@ -10,8 +10,7 @@ Group=minecraft-server
 
 Restart=always
 
-ExecStart=/opt/minecraft/run_server.sh %i nogui 
-
+ExecStart=screen -dmS "server-%i" ./run.sh nogui 
 
 ExecStop=/usr/bin/screen -p 0 -S server-%i -X eval 'stuff "say SERVER SHUTTING DOWN IN 5 SECONDS. SAVING ALL MAPS..."\015'
 ExecStop=/bin/sleep 5
@@ -20,4 +19,4 @@ ExecStop=/usr/bin/screen -p 0 -S server-%i -X eval 'stuff "stop"\015'
 
 
 [Install]
-WantedBy=multi-user.target 
+WantedBy=multi-user.target

@@ -1,6 +1,7 @@
 #! /bin/bash
+## Run this script as sudo 
 
-LOGFILE="/opt/minecraft/run_server.log" 
+LOGFILE="/opt/minecraft/server.log" 
 PACKDIR="$HOME/Documents/AlmostPack/" 
 MCDIR="/opt/minecraft/$1" 
 
@@ -20,6 +21,6 @@ if [[ -n $DIFF_OUTPUT ]]; then
     ## this may leave deprecated mods. we shall see. 
     cp -rf "$PACKDIR"/server/mods/ "$MCDIR"/ 
     cp "$PACKDIR"/server/run_server.sh /opt/minecraft/ 
-    sudo cp "$PACKDIR"/server/minecraft@.service /etc/systemd/system/
+    cp "$PACKDIR"/server/minecraft@.service /etc/systemd/system/
     log "Updated files on server"
 fi
