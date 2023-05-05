@@ -27,6 +27,7 @@ if [[ -n $DIFF_OUTPUT ]]; then
     cp -f "$PACKDIR/server-icon.png" "$MCDIR/" 
     cp -f "$PACKDIR/minecraft@.service" /etc/systemd/system/
     log "Updated files on server"
+    systemctl daemon-reload 
 else 
     log "Server files already on newest version"    
 fi 

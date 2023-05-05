@@ -10,7 +10,8 @@ Group=minecraft-server
 
 Type=forking
 Restart=always
-RemainAfterExit=true 
+## this setting keeps the server from restarting after stop 
+#RemainAfterExit=true 
 
 ExecStart=/usr/bin/screen -dmS "server-%i" bash run.sh nogui 
 
