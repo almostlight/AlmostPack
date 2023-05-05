@@ -24,8 +24,8 @@ fi
 if [[ -n $DIFF_OUTPUT ]]; then
     ## this may leave deprecated mods. 
     cp -rf "$PACKDIR/mods/" "$MCDIR/" 
-    cp "$PACKDIR/server-icon.png" "$MCDIR/" 
-    cp "$PACKDIR/minecraft@.service" /etc/systemd/system/
+    cp -f "$PACKDIR/server-icon.png" "$MCDIR/" 
+    cp -f "$PACKDIR/minecraft@.service" /etc/systemd/system/
     log "Updated files on server"
 else 
     log "Server files already on newest version"    
