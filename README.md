@@ -1,4 +1,4 @@
-# AlmostPack
+# Mikkgaard
 A Minecraft mod pack 
 
 
