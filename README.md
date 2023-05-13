@@ -1,6 +1,52 @@
 # Mikkgaard
-A Minecraft mod pack 
+Mikkgaard is a modpack designed for a small multiplayer server.
+The pack adds items and features that I felt were missing from the vanilla game, and improves others to make the whole experience more interesting and enjoyable. It's not intended to be a "hardcore" or realistic experience. It adds features improving player comfort (like waypoints and backpacks), new mobs, blocks, weapons, items, and more.
 
+Features include:
+- Waypoints
+- Magic
+- Mechanisms
+- Seasons
+- Overhauled combat
+- Three new dimensions
+- New mobs 
+- New weapons
+- New and redesigned structures
+- Backpacks
+- Gravestones
+- A minimap
+- Hugely improved cosmetics
+- Many more changes and improvements
 
-https://user-images.githubusercontent.com/70998228/236688174-58e1ce11-5bec-4653-a6b0-557d76767aad.mp4
+# Changelog 
+- 1.2 
+	- Minecraft version changed from 1.19.4 to 1.19.2 
+	- Modpack name changed 
+- 1.3 
+	- **Items**
+		- added *Upgraded Netherite* 
+		- added *Construction Wand*
+		- added *Artifacts*
+		- added new food items 
+		- *Rotten Flesh* can now be smelted to make leather 
+	- **Mobs** 
+		- added *Alex's Mobs* 
+		- added *Aquaculture 2* 
+		- added *Guard Villagers* 
+	- **World**  
+		- added *Blue Skies* 
+		- added *FTB Quests* 
+		- added (a lot of) new structures 
+	- **Client** 
+		- revised advancements UX 
+		- revised third-person view 
+		- removed *First-person Model* 
+	- **Server** 
+		- added *Configured* 
+		- added *Lootr* 
+		- added *Easier Sleeping* 
 
+# Recommended OptiFine version 
+https://optifine.net/adloadx?f=OptiFine_1.19.2_HD_U_I1.jar 
+
+Long Live Winston Duarte! 
