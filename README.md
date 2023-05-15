@@ -1,22 +1,21 @@
-# Mikkgaard
 Mikkgaard is a modpack designed for a small multiplayer server.
 The pack adds items and features that I felt were missing from the vanilla game, and improves others to make the whole experience more interesting and enjoyable. It's not intended to be a "hardcore" or realistic experience. It adds features improving player comfort (like waypoints and backpacks), new mobs, blocks, weapons, items, and more.
 
-Features include:
-- Waypoints
-- Magic
-- Mechanisms
-- Seasons
-- Overhauled combat
-- Three new dimensions
-- New mobs 
-- New weapons
-- New and redesigned structures
-- Backpacks
-- Gravestones
-- A minimap
-- Hugely improved cosmetics
-- Many more changes and improvements
+# Features 
+	- Waypoints
+	- Magic
+	- Mechanisms
+	- Seasons
+	- Overhauled combat
+	- Three new dimensions
+	- New mobs 
+	- New weapons
+	- New and redesigned structures
+	- Backpacks
+	- Gravestones
+	- A minimap
+	- Hugely improved cosmetics
+	- Many more changes and improvements
 
 # Changelog 
 - 1.2 
@@ -45,8 +44,12 @@ Features include:
 		- added *Configured* 
 		- added *Lootr* 
 		- added *Easier Sleeping* 
+- 1.4 
+	- **Performance**
+		- added *Rubidium*
+		- added *Oculus*
+		- removed *OptiFine*
 
-# Recommended OptiFine version 
-https://optifine.net/adloadx?f=OptiFine_1.19.2_HD_U_I1.jar 
+# This modpack is not compatible with *OptiFine*
 
 Long Live Winston Duarte! 
