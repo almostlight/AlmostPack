@@ -1,21 +1,21 @@
 Mikkgaard is a modpack designed for a small multiplayer server.
 The pack adds items and features that I felt were missing from the vanilla game, and improves others to make the whole experience more interesting and enjoyable. It's not intended to be a "hardcore" or realistic experience. It adds features improving player comfort (like waypoints and backpacks), new mobs, blocks, weapons, items, and more.
 
- Features include: 
-	- Waypoints
-	- Magic
-	- Mechanisms
-	- Seasons
-	- Overhauled combat
-	- Three new dimensions
-	- New mobs 
-	- New weapons
-	- New and redesigned structures
-	- Backpacks
-	- Gravestones
-	- A minimap
-	- Hugely improved cosmetics
-	- Many more changes and improvements
+# Features 
+- Waypoints
+- Magic
+- Mechanisms
+- Seasons
+- Overhauled combat
+- Three new dimensions
+- New mobs 
+- New weapons
+- New and redesigned structures
+- Backpacks
+- Gravestones
+- A minimap
+- Hugely improved cosmetics
+- Many more changes and improvements
 
 # Changelog 
 - 1.2 
