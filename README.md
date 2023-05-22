@@ -50,7 +50,7 @@ The pack adds items and features that I felt were missing from the vanilla game,
 		- added *Oculus*
 		- removed *OptiFine*
 - 1.5 
-	- Items
+	- **Items**
 		- added many decorative blocks 
 		- added *Ender Storage* 
 		- added *Charged Charms* 
@@ -59,19 +59,19 @@ The pack adds items and features that I felt were missing from the vanilla game,
 		- added *Village Artifacts* 
 		- added *Sophisticated Backpacks* 
 		- removed *Traveler's Backpack* 
-	- Mobs 
+	- **Mobs** 
 		- added *Creeper Overhaul*
-	- World 
+	- **World** 
 		- added *Apotheosis* 
 		- added *Wither Skeleton Tweaks* 
 		- added *Ensorcellation* 
-	- Client 
+	- **Client** 
 		- added *Default Settings* 
 		- added *Fuel Goes Here* 
 		- added *Harvest With Ease*
 		- added *Model Gap Fix*
 		- improved performance
-	- Server 
+	- **Server** 
 		- added *Inventory Profiles* 
 		- improved performance
 
