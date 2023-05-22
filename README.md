@@ -49,6 +49,31 @@ The pack adds items and features that I felt were missing from the vanilla game,
 		- added *Rubidium*
 		- added *Oculus*
 		- removed *OptiFine*
+- 1.5 
+	- Items
+		- added many decorative blocks 
+		- added *Ender Storage* 
+		- added *Charged Charms* 
+		- added *Corail Woodcutter* 
+		- added *Charm of Undying* 
+		- added *Village Artifacts* 
+		- added *Sophisticated Backpacks* 
+		- removed *Traveler's Backpack* 
+	- Mobs 
+		- added *Creeper Overhaul*
+	- World 
+		- added *Apotheosis* 
+		- added *Wither Skeleton Tweaks* 
+		- added *Ensorcellation* 
+	- Client 
+		- added *Default Settings* 
+		- added *Fuel Goes Here* 
+		- added *Harvest With Ease*
+		- added *Model Gap Fix*
+		- improved performance
+	- Server 
+		- added *Inventory Profiles* 
+		- improved performance
 
 # This modpack is not compatible with *OptiFine*
 
